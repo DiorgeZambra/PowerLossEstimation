@@ -102,22 +102,14 @@ Hybrid Electric Vehicles"
 
 IEEE Latin America Transactions.
 
+DOI: https://doi.org/10.1109/TLA.2026.11683313
 
 ## Citation
 
 If you use this code in academic work, please cite the associated
 publication:
 
-L. M. Abdalla, P. H. Conrado, A. R. Rauber, L. R. Colpo,
-F. Bruschi, and D. A. B. Zambra,
-
-"Modeling and Analysis of a Liquid-Cooled Heat Sink for Inverters Used in
-Hybrid Electric Vehicles"
-
-IEEE Latin America Transactions.
-
-DOI: To be added after publication.
-
+L. Meinerz Abdalla, P. Henrique Conrado, A. Rodrigues Rauber, L. Roso Colpo, F. Bruschi and D. Alex Bao Zambra, "Modeling and Analysis of a Liquid-Cooled Heat Sink for Inverters Used in Hybrid Electric Vehicles," in IEEE Latin America Transactions, vol. 24, no. 10, pp. 1169-1179, Oct. 2026, doi: 10.1109/TLA.2026.11683313.
 
 ## Author
 
